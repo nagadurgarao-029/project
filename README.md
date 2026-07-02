@@ -13,8 +13,10 @@ Traditional metrics like GDP often fail to capture true human prosperity. This p
 
 
 
-The repository utilizes an Entity-Relationship model designed for relational databases (PostgreSQL/MySQL) to capture framework structures, survey items, user metrics, and final scoring benchmarks.
+The repository utilizes an Entity-Relationship model designed for relational databases (PostgreSQL/MySQL) to capture framework structures, survey items, 
 <img width="1492" height="840" alt="image" src="https://github.com/user-attachments/assets/b910baff-fa26-4afe-bc14-1f5014b3e2c9" />
+
+user metrics, and final scoring benchmarks.
 
 
 ```mermaid
